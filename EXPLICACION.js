@@ -9,6 +9,7 @@ Pasos a seguir para subir codigo nuevo a git:
 
 Pasos a seguir para actualizar mi local, con respecto al repo:
 -git pull : Es para traer los cambios de github al local
+-git pull origin main : me trae los cambios de main
 
 Como cambiar de rama
 -git checkout {nombre de la rama} : Para cambiar la rama en la que estoy parado
