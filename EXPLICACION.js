@@ -7,5 +7,9 @@ Pasos a seguir para subir codigo nuevo a git:
 -git commit -m "aca va un comentario" : Es para armar el commit
 -git push : Es para enviar el commit
 
+Pasos a seguir para actualizar mi local, con respecto al repo:
+-git pull : Es para traer los cambios de github al local
 
+Como cambiar de rama
+-git checkout {nombre de la rama} : Para cambiar la rama en la que estoy parado
 */
